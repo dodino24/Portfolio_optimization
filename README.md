@@ -12,3 +12,6 @@
 3. Run Monte Carlo simulations using random portfolio weights.
 4. Plot the risk vs return for each simulation run.
 5. Select optimal portfolio weights that maximize return and minimize risks.
+
+
+### Please unzip the file for better observation
