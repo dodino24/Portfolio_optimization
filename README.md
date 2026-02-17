@@ -14,4 +14,4 @@
 5. Select optimal portfolio weights that maximize return and minimize risks.
 
 
-### Please unzip the file for better observation
+#### Please unzip the file for better observation.
