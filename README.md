@@ -1,4 +1,4 @@
-# Portfolio_optimization
+# Portfolio_Optimization
 
 * In this project, we will perform portfolio analysis, visualization and optimization.
 * A portfolio is a collection of financial assets such as stocks, bonds, cash and real estate.
